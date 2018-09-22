@@ -1,10 +1,3 @@
-If you use this dataset in your research work, please cite
-
-"Challenges in Representation Learning: A report on three machine learning
-contests." I Goodfellow, D Erhan, PL Carrier, A Courville, M Mirza, B
-Hamner, W Cukierski, Y Tang, DH Lee, Y Zhou, C Ramaiah, F Feng, R Li,
-X Wang, D Athanasakis, J Shawe-Taylor, M Milakov, J Park, R Ionescu,
-M Popescu, C Grozea, J Bergstra, J Xie, L Romaszko, B Xu, Z Chuang, and
-Y. Bengio. arXiv 2013.
-
-See fer2013.bib for a bibtex entry.
+The training process of facial-expression-detector requires the fer2013 dataset that can be downloaded from Kaggel.
+Extract the fer2013 dataset here (extract the csv file here).
+However, running the facial-expression-detector does not require fer2013 dataset
