@@ -2,7 +2,7 @@
 
 ## Intro:
     The facial-expression-detector provides real-time analysis on facial expression upon each successful face detection through video cameras.
-    The detector was trained and fine-tuned by applying unsupervised learning on fer2013 datasets via a convolutional neural network implemented with TensorFlow.
+    The detector was trained and fine-tuned by applying supervised learning on fer2013 datasets via a convolutional neural network implemented with TensorFlow.
 
 
 ## Before you download it, check these out:
