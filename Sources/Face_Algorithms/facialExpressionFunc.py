@@ -1,6 +1,5 @@
 ### Function supports to facial expression detection
-### Last modified: 2018-09
-### *** Credit: https://github.com/serengil/tensorflow-101/blob/master/python/facial-expression-recognition.py *** ###
+### Last modified: 2018-10
 ### *** Credit: Kaggle challange fer2013.csv file *** ###
 
 import numpy as np
