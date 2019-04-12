@@ -6,7 +6,7 @@
     Status: work in progress
     
 ## To run it:
-    Get Python3, Dilb, OpenCV, numpy, Keras & Tensorflow, and ur ready to rock'n roll :)
+    Get Python3, Dilb, OpenCV, numpy, Keras & Tensorflow, and ur ready to rock'n roll :) (I guess you need a camera to say cheese)
 
 
         
