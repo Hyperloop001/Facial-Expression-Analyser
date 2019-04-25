@@ -8,7 +8,7 @@
 ![alt text](https://camo.githubusercontent.com/1447b41176420ee6ca0232ea41891cf3af907be2/68747470733a2f2f692e696d6775722e636f6d2f434c37344a36352e706e67)
 
 ## Scripts, Models & Datasets
-Facial Expression Analyser contains several training/testing scripts and pre-trained model for you to play with.
+Facial Expression Analyser contains several training/testing scripts and pre-trained models for you to play with.
 
 **Scripts**
 
