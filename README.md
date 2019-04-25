@@ -31,8 +31,9 @@ Name | Usage
 model_0/facial_expression_model_weights.h5 | The DEMO weight
 model_(1,2,3)/facial_expression_model_weights.h5 | The weight used during testing
 
-## To run it:
+## Instruction:
 * Get Python3, Dilb, OpenCV, numpy, Keras & Tensorflow, and ur ready to rock'n roll :) (I guess you need a camera to say cheese)
+* Work in progress...
 
 
 
