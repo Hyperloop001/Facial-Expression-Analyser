@@ -1,5 +1,13 @@
 # Facial Expression Analyser
   
+  
+## Table of Contents
+* [Introduction](#Introduction)
+* [Resources](#Resources)
+* [Instruction](#Instruction)
+* [Benchmarks](#Benchmarks)
+* [Requirements](#Requirements)
+
 ## Introduction
 * Function: provides real-time analysis on facial expression upon each successful face detection through video cameras.
 * Implementation: the detector was trained and fine-tuned by applying supervised learning on fer2013 datasets via convolutional neural networks backended in TensorFlow.
